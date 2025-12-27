@@ -1,0 +1,152 @@
+[
+    {
+        "hidden_count": 100,
+        "epoch_level_stats": [
+            {
+                "epoch": 1,
+                "accuracy": 0.9223
+            },
+            {
+                "epoch": 2,
+                "accuracy": 0.9418
+            },
+            {
+                "epoch": 3,
+                "accuracy": 0.9503
+            },
+            {
+                "epoch": 4,
+                "accuracy": 0.9571
+            },
+            {
+                "epoch": 5,
+                "accuracy": 0.9607
+            },
+            {
+                "epoch": 6,
+                "accuracy": 0.9634
+            }
+        ],
+        "best_accuracy": 0.9634
+    },
+    {
+        "hidden_count": 200,
+        "epoch_level_stats": [
+            {
+                "epoch": 1,
+                "accuracy": 0.9256
+            },
+            {
+                "epoch": 2,
+                "accuracy": 0.946
+            },
+            {
+                "epoch": 3,
+                "accuracy": 0.9556
+            },
+            {
+                "epoch": 4,
+                "accuracy": 0.9603
+            },
+            {
+                "epoch": 5,
+                "accuracy": 0.9639
+            },
+            {
+                "epoch": 6,
+                "accuracy": 0.9667
+            }
+        ],
+        "best_accuracy": 0.9667
+    },
+    {
+        "hidden_count": 300,
+        "epoch_level_stats": [
+            {
+                "epoch": 1,
+                "accuracy": 0.9264
+            },
+            {
+                "epoch": 2,
+                "accuracy": 0.9478
+            },
+            {
+                "epoch": 3,
+                "accuracy": 0.9567
+            },
+            {
+                "epoch": 4,
+                "accuracy": 0.9618
+            },
+            {
+                "epoch": 5,
+                "accuracy": 0.9659
+            },
+            {
+                "epoch": 6,
+                "accuracy": 0.9692
+            }
+        ],
+        "best_accuracy": 0.9692
+    },
+    {
+        "hidden_count": 400,
+        "epoch_level_stats": [
+            {
+                "epoch": 1,
+                "accuracy": 0.9299
+            },
+            {
+                "epoch": 2,
+                "accuracy": 0.9504
+            },
+            {
+                "epoch": 3,
+                "accuracy": 0.9586
+            },
+            {
+                "epoch": 4,
+                "accuracy": 0.9636
+            },
+            {
+                "epoch": 5,
+                "accuracy": 0.9671
+            },
+            {
+                "epoch": 6,
+                "accuracy": 0.97
+            }
+        ],
+        "best_accuracy": 0.97
+    },
+    {
+        "hidden_count": 500,
+        "epoch_level_stats": [
+            {
+                "epoch": 1,
+                "accuracy": 0.9265
+            },
+            {
+                "epoch": 2,
+                "accuracy": 0.9501
+            },
+            {
+                "epoch": 3,
+                "accuracy": 0.9582
+            },
+            {
+                "epoch": 4,
+                "accuracy": 0.9643
+            },
+            {
+                "epoch": 5,
+                "accuracy": 0.968
+            },
+            {
+                "epoch": 6,
+                "accuracy": 0.9702
+            }
+        ],
+        "best_accuracy": 0.9702
+    }
+]
